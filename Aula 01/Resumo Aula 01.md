@@ -128,4 +128,4 @@ A aula apresentou:
 
 A disciplina une fundamentos técnicos e prática aplicada, preparando o aluno para o mercado de desenvolvimento web.
 
-![Gatinho Firmeza]([https://tenor.com/pt-BR/view/ggf-gato-like-gif-8141745260571442902](https://media1.tenor.com/m/cP1KLXwUvtYAAAAC/ggf-gato.gif))
+![Gatinho Firmeza](https://c.tenor.com/cP1KLXwUvtYAAAAC/tenor.gif)
