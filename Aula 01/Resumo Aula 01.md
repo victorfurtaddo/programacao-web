@@ -1,5 +1,7 @@
 # Aula 01 – Apresentação da Disciplina e Introdução à Programação Web
 
+![Gatinho Digitando](https://c.tenor.com/ZN29QILcbAQAAAAC/tenor.gif)
+
 ## 📌 Apresentação da Disciplina
 
 A disciplina tem como objetivo apresentar os fundamentos da Programação Web, combinando princípios de design visual com tecnologias web para criação de interfaces digitais funcionais e atraentes.
